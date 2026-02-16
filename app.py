@@ -5,7 +5,7 @@ import io
 
 # ---------------- CONFIGURACIÓN ----------------
 st.set_page_config(
-    page_title="Remover Fondo Pro",
+    page_title="Redimensionar imagen Sin Fondo",
     page_icon="🖼️",
     layout="centered"
 )
@@ -106,3 +106,4 @@ if uploaded_file:
     )
 
     st.success("Imagen lista para descargar")
+
