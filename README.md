@@ -6,3 +6,5 @@ Aplicación web creada con Streamlit para:
 - Redimensionar proporcionalmente
 - Centrar la imagen en 185x75 px
 - Descargar el resultado en PNG transparente
+
+https://redimensionar-imagen.streamlit.app/
